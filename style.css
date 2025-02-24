@@ -51,20 +51,16 @@
         bottom: 0;
     }
 
-    35% {
-        bottom: 180px;
-    }
-
     40% {
-        bottom: 180px;
+        bottom: 200px;
     }
 
     50% { 
-        bottom: 180px; 
+        bottom: 200px; 
     }
 
     55% {
-        bottom: 180px;
+        bottom: 200px;
     }
     
     60% {

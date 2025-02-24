@@ -4,7 +4,7 @@ const pipe = document.querySelector('.pipe');
 const jump = () => {
     mario.classList.add('jump');
 
-    // Remove a classe 'jump' após 500 milissegundos (ajuste conforme necessário)
+    // Removes the 'jump' class after 500 milliseconds (adjust as needed)
     setTimeout(() => {
         mario.classList.remove('jump');
     }, 500);
@@ -24,7 +24,7 @@ const loop = setInterval(() => {
       mario.style.animation = 'nome';  
       mario.style.bottom = `${pipePosition}px`;
 
-      mario.src = 'Image/game-over.png';
+      mario.src = 'game-over.png';
       mario.style.width = '75px';
       mario.style.marginLeft = '50px';
 

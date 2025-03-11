@@ -2,4 +2,4 @@
 
 Simple game using HTML, CSS and JS.
 
-https://brunatlrocha.github.io/Mario-Game/
+https://brunatlrocha.github.io/mario-game/
